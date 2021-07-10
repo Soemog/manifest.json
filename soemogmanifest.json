@@ -1,0 +1,39 @@
+{
+  "name": "Soemog.Com",
+  "short_name": "Logo Soemog",
+  "scope": "https://www.soemog.com/",
+  "start_url": "https://www.soemog.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Soemog.Com merupakan situs web yang memberikan informasi terkini. Seperti desain rumah, tutorial, bisnis, dan masih banyak yang lainnya!",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-fSOBdNESWN4/YOlMJ2BbX1I/AAAAAAAAAKo/ZYm9T4gf5h0lMVgcBLadL45t4Oy4Ck5OgCLcBGAsYHQ/s0/20210710_142734%255B1%255D.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fSOBdNESWN4/YOlMJ2BbX1I/AAAAAAAAAKo/ZYm9T4gf5h0lMVgcBLadL45t4Oy4Ck5OgCLcBGAsYHQ/s0/20210710_142734%255B1%255D.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fSOBdNESWN4/YOlMJ2BbX1I/AAAAAAAAAKo/ZYm9T4gf5h0lMVgcBLadL45t4Oy4Ck5OgCLcBGAsYHQ/s0/20210710_142734%255B1%255D.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fSOBdNESWN4/YOlMJ2BbX1I/AAAAAAAAAKo/ZYm9T4gf5h0lMVgcBLadL45t4Oy4Ck5OgCLcBGAsYHQ/s0/20210710_142734%255B1%255D.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fSOBdNESWN4/YOlMJ2BbX1I/AAAAAAAAAKo/ZYm9T4gf5h0lMVgcBLadL45t4Oy4Ck5OgCLcBGAsYHQ/s0/20210710_142734%255B1%255D.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fSOBdNESWN4/YOlMJ2BbX1I/AAAAAAAAAKo/ZYm9T4gf5h0lMVgcBLadL45t4Oy4Ck5OgCLcBGAsYHQ/s0/20210710_142734%255B1%255D.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fSOBdNESWN4/YOlMJ2BbX1I/AAAAAAAAAKo/ZYm9T4gf5h0lMVgcBLadL45t4Oy4Ck5OgCLcBGAsYHQ/s0/20210710_142734%255B1%255D.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
